@@ -6,6 +6,12 @@
 - The project stills in development and this is only the base for now, almost all the features are pending to develop.
 - The API code are not available in this repo (still private)
 
+###### PREVIEW
+- Dashboard
+# ![Dashboard](./screenshots/dashboard.PNG)
+- Domain List
+# ![Domain List](./screenshots/domain_list.PNG)
+
 ## Technologies
 - Based on the Webpack template of [VueJS-Cli](https://github.com/vuejs/vue-cli)
 - [Vue-Router](https://router.vuejs.org/es/essentials/getting-started.html) for handling app routes
